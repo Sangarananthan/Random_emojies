@@ -17,6 +17,6 @@ body {
 }
 
 #emoji:hover {
-  transform: scale(1.5);
+  transform: scale(.8);
   filter: grayscale(0);
 }
